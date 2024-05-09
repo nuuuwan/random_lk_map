@@ -68,11 +68,11 @@ class ReadMe:
                 [
                     '<div id="image-info">',
                     '',
-                    f'## {gnd.name} GND',
+                    f'## {gnd.name}',
                     '',
                     f'Population: {gnd.population:,} (2012)',
                     '',
-                    f'**{dsd.name}** Divisional Secretariat Division, **{district.name}** District, **{province.name}** Province',
+                    f'**{gnd.name}** GND, **{dsd.name}** Divisional Secretariat Division, **{district.name}** District, **{province.name}** Province',
                     '',
                     f'**{pd.name}** Polling Division, **{ed.name}** Electoral District',
                     '',
