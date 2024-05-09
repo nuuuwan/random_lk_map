@@ -70,6 +70,8 @@ class ReadMe:
                     '',
                     f'## {gnd.name} GND',
                     '',
+                    f'Population: {gnd.population:,} (2012)',
+                    '',
                     f'**{dsd.name}** Divisional Secretariat Division, **{district.name}** District, **{province.name}** Province',
                     '',
                     f'**{pd.name}** Polling Division, **{ed.name}** Electoral District',
