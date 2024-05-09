@@ -72,7 +72,6 @@ class ReadMe:
                     '',
                     '<div id="text-info">',
                     '',
-                    
                     f'**{gnd.name}** Grama Niladhari Division, **{dsd.name}** Divisional Secretariat Division, **{district.name}** District, **{province.name}** Province',
                     '',
                     f'**{pd.name}** Polling Division, **{ed.name}** Electoral District',
