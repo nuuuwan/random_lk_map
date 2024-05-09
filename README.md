@@ -4,33 +4,33 @@
 
 <div id="image-info">
 
-## Manduvil GND
+## Bulumulla GND
 
-Population: 1,080 (2012)
+Population: 1,288 (2012)
 
-**Thenmaradchi (Chavakachcheri)** Divisional Secretariat Division, **Jaffna** District, **Northern** Province
+**Yatinuwara** Divisional Secretariat Division, **Kandy** District, **Central** Province
 
-**Chavakachcheri** Polling Division, **Jaffna** Electoral District
+**Yatinuwara** Polling Division, **Kandy** Electoral District
 
-![LK-4130085](data/images/LK-4130085.9677394-80174283.png)
+![LK-2136390](data/images/LK-2136390.7270535-80572539.png)
 
-(**LK-4130085**/J/304)
+(**LK-2136390**/125)
 
 </div>
 
 <div id="image-info">
 
-## Kottawa South GND
+## Pallikkudawa Urban GND
 
-Population: 7,159 (2012)
+Population: 1,315 (2012)
 
-**Maharagama** Divisional Secretariat Division, **Colombo** District, **Western** Province
+**Tangalle** Divisional Secretariat Division, **Hambantota** District, **Southern** Province
 
-**Maharagama** Polling Division, **Colombo** Electoral District
+**Tangalle** Polling Division, **Hambantota** Electoral District
 
-![LK-1121130](data/images/LK-1121130.6848683-79966434.png)
+![LK-3333255](data/images/LK-3333255.6022122-80795250.png)
 
-(**LK-1121130**/496)
+(**LK-3333255**/273)
 
 </div>
 
@@ -52,17 +52,33 @@ Population: 1,776 (2012)
 
 <div id="image-info">
 
-## Bulumulla GND
+## Kottawa South GND
 
-Population: 1,288 (2012)
+Population: 7,159 (2012)
 
-**Yatinuwara** Divisional Secretariat Division, **Kandy** District, **Central** Province
+**Maharagama** Divisional Secretariat Division, **Colombo** District, **Western** Province
 
-**Yatinuwara** Polling Division, **Kandy** Electoral District
+**Maharagama** Polling Division, **Colombo** Electoral District
 
-![LK-2136390](data/images/LK-2136390.7270535-80572539.png)
+![LK-1121130](data/images/LK-1121130.6848683-79966434.png)
 
-(**LK-2136390**/125)
+(**LK-1121130**/496)
+
+</div>
+
+<div id="image-info">
+
+## Manduvil GND
+
+Population: 1,080 (2012)
+
+**Thenmaradchi (Chavakachcheri)** Divisional Secretariat Division, **Jaffna** District, **Northern** Province
+
+**Chavakachcheri** Polling Division, **Jaffna** Electoral District
+
+![LK-4130085](data/images/LK-4130085.9677394-80174283.png)
+
+(**LK-4130085**/J/304)
 
 </div>
 
