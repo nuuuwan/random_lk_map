@@ -55,6 +55,7 @@ class ReadMe:
             lines.extend(
                 [
                     '<div id="image-info">',
+                    '',
                     f'## {gnd.name} GND',
                     '',
                     f'{dsd.name} DSD, {district.name} District, {province.name} Province',
@@ -62,6 +63,7 @@ class ReadMe:
                     f'![{gnd_id}]({file_path_unix})',
                     '',
                     '</div>',
+                    '',
                 ]
             )
         return lines
