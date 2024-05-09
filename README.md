@@ -4,49 +4,17 @@
 
 <div id="image-info">
 
-## Pathiragoda GND
+## Kottawa South GND
 
-Population: 6,546 (2012)
+Population: 7,159 (2012)
 
 **Maharagama** Divisional Secretariat Division, **Colombo** District, **Western** Province
 
 **Maharagama** Polling Division, **Colombo** Electoral District
 
-![LK-1121100](data/images/LK-1121100.6858873-79920829.png)
+![LK-1121130](data/images/LK-1121130.6848683-79966434.png)
 
-(**LK-1121100**/527A)
-
-</div>
-
-<div id="image-info">
-
-## Puthukudiyiruppu GND
-
-Population: 1,776 (2012)
-
-**Mannar Town** Divisional Secretariat Division, **Mannar** District, **Northern** Province
-
-**Mannar** Polling Division, **Vanni** Electoral District
-
-![LK-4203070](data/images/LK-4203070.9051676-79854248.png)
-
-(**LK-4203070**/MN/61)
-
-</div>
-
-<div id="image-info">
-
-## Maharagama GND
-
-Population: 1,513 (2012)
-
-**Mahara** Divisional Secretariat Division, **Gampaha** District, **Western** Province
-
-**Mahara** Polling Division, **Gampaha** Electoral District
-
-![LK-1233020](data/images/LK-1233020.7055318-80028828.png)
-
-(**LK-1233020**/303A)
+(**LK-1121130**/496)
 
 </div>
 
@@ -68,33 +36,33 @@ Population: 2,649 (2012)
 
 <div id="image-info">
 
-## Kottawa South GND
+## Maharagama GND
 
-Population: 7,159 (2012)
+Population: 1,513 (2012)
 
-**Maharagama** Divisional Secretariat Division, **Colombo** District, **Western** Province
+**Mahara** Divisional Secretariat Division, **Gampaha** District, **Western** Province
 
-**Maharagama** Polling Division, **Colombo** Electoral District
+**Mahara** Polling Division, **Gampaha** Electoral District
 
-![LK-1121130](data/images/LK-1121130.6848683-79966434.png)
+![LK-1233020](data/images/LK-1233020.7055318-80028828.png)
 
-(**LK-1121130**/496)
+(**LK-1233020**/303A)
 
 </div>
 
 <div id="image-info">
 
-## Pallikkudawa Urban GND
+## Puthukudiyiruppu GND
 
-Population: 1,315 (2012)
+Population: 1,776 (2012)
 
-**Tangalle** Divisional Secretariat Division, **Hambantota** District, **Southern** Province
+**Mannar Town** Divisional Secretariat Division, **Mannar** District, **Northern** Province
 
-**Tangalle** Polling Division, **Hambantota** Electoral District
+**Mannar** Polling Division, **Vanni** Electoral District
 
-![LK-3333255](data/images/LK-3333255.6022122-80795250.png)
+![LK-4203070](data/images/LK-4203070.9051676-79854248.png)
 
-(**LK-3333255**/273)
+(**LK-4203070**/MN/61)
 
 </div>
 
@@ -127,5 +95,53 @@ Population: 1,080 (2012)
 ![LK-4130085](data/images/LK-4130085.9677394-80174283.png)
 
 (**LK-4130085**/J/304)
+
+</div>
+
+<div id="image-info">
+
+## Pallikkudawa Urban GND
+
+Population: 1,315 (2012)
+
+**Tangalle** Divisional Secretariat Division, **Hambantota** District, **Southern** Province
+
+**Tangalle** Polling Division, **Hambantota** Electoral District
+
+![LK-3333255](data/images/LK-3333255.6022122-80795250.png)
+
+(**LK-3333255**/273)
+
+</div>
+
+<div id="image-info">
+
+## Pathiragoda GND
+
+Population: 6,546 (2012)
+
+**Maharagama** Divisional Secretariat Division, **Colombo** District, **Western** Province
+
+**Maharagama** Polling Division, **Colombo** Electoral District
+
+![LK-1121100](data/images/LK-1121100.6858873-79920829.png)
+
+(**LK-1121100**/527A)
+
+</div>
+
+<div id="image-info">
+
+## Enderamulla West GND
+
+Population: 2,775 (2012)
+
+**Mahara** Divisional Secretariat Division, **Gampaha** District, **Western** Province
+
+**Mahara** Polling Division, **Gampaha** Electoral District
+
+![LK-1233450](data/images/LK-1233450.6995259-79920677.png)
+
+(**LK-1233450**/255F)
 
 </div>
