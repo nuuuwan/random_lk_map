@@ -4,19 +4,19 @@
 
 <div id="image-info">
 
-## Ganepola
+## Bowatta
 
 <div id="text-info">
 
-**Ganepola** Grama Niladhari Division, **Katana** Divisional Secretariat Division, **Gampaha** District, **Western** Province
+**Bowatta** Grama Niladhari Division, **Pannala** Divisional Secretariat Division, **Kurunegala** District, **North Western** Province
 
-**Katana** Polling Division, **Gampaha** Electoral District
+**Katugampola** Polling Division, **Kurunegala** Electoral District
 
-Population: 1,961 (2012)
+Population: 1,326 (2012)
 
-(**LK-1206280**/203)
+(**LK-6178185**/1533)
 
-![LK-1206280](data/images/LK-1206280.7141696-79911593.png)
+![LK-6178185](data/images/LK-6178185.7377093-80036279.png)
 
 </div>
 
@@ -24,19 +24,19 @@ Population: 1,961 (2012)
 
 <div id="image-info">
 
-## Akkaraipattu 8/1
+## Murunkan
 
 <div id="text-info">
 
-**Akkaraipattu 8/1** Grama Niladhari Division, **Alayadiwembu** Divisional Secretariat Division, **Ampara** District, **Eastern** Province
+**Murunkan** Grama Niladhari Division, **Nanattan** Divisional Secretariat Division, **Mannar** District, **Northern** Province
 
-**Pothuvil** Polling Division, **Digamadulla** Electoral District
+**Mannar** Polling Division, **Vanni** Electoral District
 
-Population: 531 (2012)
+Population: 1,378 (2012)
 
-(**LK-5239005**/AV/10)
+(**LK-4212065**/MN/118)
 
-![LK-5239005](data/images/LK-5239005.7219145-81849087.png)
+![LK-4212065](data/images/LK-4212065.8835536-80033668.png)
 
 </div>
 
@@ -64,39 +64,79 @@ Population: 941 (2012)
 
 <div id="image-info">
 
-## Kadalana
+## Ihala Walasmulla
 
 <div id="text-info">
 
-**Kadalana** Grama Niladhari Division, **Moratuwa** Divisional Secretariat Division, **Colombo** District, **Western** Province
+**Ihala Walasmulla** Grama Niladhari Division, **Walasmulla** Divisional Secretariat Division, **Hambantota** District, **Southern** Province
+
+**Mulkirigala** Polling Division, **Hambantota** Electoral District
+
+Population: 743 (2012)
+
+(**LK-3325220**/457)
+
+![LK-3325220](data/images/LK-3325220.6167852-80692560.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Akkaraipattu 8/1
+
+<div id="text-info">
+
+**Akkaraipattu 8/1** Grama Niladhari Division, **Alayadiwembu** Divisional Secretariat Division, **Ampara** District, **Eastern** Province
+
+**Pothuvil** Polling Division, **Digamadulla** Electoral District
+
+Population: 531 (2012)
+
+(**LK-5239005**/AV/10)
+
+![LK-5239005](data/images/LK-5239005.7219145-81849087.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Gammeddegoda
+
+<div id="text-info">
+
+**Gammeddegoda** Grama Niladhari Division, **Hikkaduwa** Divisional Secretariat Division, **Galle** District, **Southern** Province
+
+**Ratgama** Polling Division, **Galle** Electoral District
+
+Population: 1,055 (2012)
+
+(**LK-3136430**/47)
+
+![LK-3136430](data/images/LK-3136430.6090945-80144730.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Moratuwella North
+
+<div id="text-info">
+
+**Moratuwella North** Grama Niladhari Division, **Moratuwa** Divisional Secretariat Division, **Colombo** District, **Western** Province
 
 **Moratuwa** Polling Division, **Colombo** Electoral District
 
-Population: 3,544 (2012)
+Population: 2,236 (2012)
 
-(**LK-1133105**/558A)
+(**LK-1133160**/553A)
 
-![LK-1133105](data/images/LK-1133105.6782588-79890230.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Kallarichchel 01
-
-<div id="text-info">
-
-**Kallarichchel 01** Grama Niladhari Division, **Samanthurai** Divisional Secretariat Division, **Ampara** District, **Eastern** Province
-
-**Samanthurai** Polling Division, **Digamadulla** Electoral District
-
-Population: 785 (2012)
-
-(**LK-5218240**/79D)
-
-![LK-5218240](data/images/LK-5218240.7356543-81812420.png)
+![LK-1133160](data/images/LK-1133160.6775183-79883967.png)
 
 </div>
 
@@ -104,19 +144,19 @@ Population: 785 (2012)
 
 <div id="image-info">
 
-## Central Camp 06
+## Weralupa
 
 <div id="text-info">
 
-**Central Camp 06** Grama Niladhari Division, **Navithanveli** Divisional Secretariat Division, **Ampara** District, **Eastern** Province
+**Weralupa** Grama Niladhari Division, **Ratnapura** Divisional Secretariat Division, **Ratnapura** District, **Sabaragamuwa** Province
 
-**Samanthurai** Polling Division, **Digamadulla** Electoral District
+**Ratnapura** Polling Division, **Ratnapura** Electoral District
 
-Population: 1,106 (2012)
+Population: 5,019 (2012)
 
-(**LK-5216025**/SP/93/F)
+(**LK-9112185**/152B)
 
-![LK-5216025](data/images/LK-5216025.7437410-81721957.png)
+![LK-9112185](data/images/LK-9112185.6691737-80393795.png)
 
 </div>
 
@@ -124,39 +164,19 @@ Population: 1,106 (2012)
 
 <div id="image-info">
 
-## Pathiragoda
+## Dedigamuwa
 
 <div id="text-info">
 
-**Pathiragoda** Grama Niladhari Division, **Maharagama** Divisional Secretariat Division, **Colombo** District, **Western** Province
+**Dedigamuwa** Grama Niladhari Division, **Kaduwela** Divisional Secretariat Division, **Colombo** District, **Western** Province
 
-**Maharagama** Polling Division, **Colombo** Electoral District
+**Kaduwela** Polling Division, **Colombo** Electoral District
 
-Population: 6,546 (2012)
+Population: 2,105 (2012)
 
-(**LK-1121100**/527A)
+(**LK-1109100**/480A)
 
-![LK-1121100](data/images/LK-1121100.6858873-79920829.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Bowatta
-
-<div id="text-info">
-
-**Bowatta** Grama Niladhari Division, **Pannala** Divisional Secretariat Division, **Kurunegala** District, **North Western** Province
-
-**Katugampola** Polling Division, **Kurunegala** Electoral District
-
-Population: 1,326 (2012)
-
-(**LK-6178185**/1533)
-
-![LK-6178185](data/images/LK-6178185.7377093-80036279.png)
+![LK-1109100](data/images/LK-1109100.6898021-80027073.png)
 
 </div>
 
@@ -184,19 +204,19 @@ Population: 1,746 (2012)
 
 <div id="image-info">
 
-## Gallehepitiya
+## Galpottayaya South
 
 <div id="text-info">
 
-**Gallehepitiya** Grama Niladhari Division, **Panduwasnuwara East** Divisional Secretariat Division, **Kurunegala** District, **North Western** Province
+**Galpottayaya South** Grama Niladhari Division, **Weeraketiya** Divisional Secretariat Division, **Hambantota** District, **Southern** Province
 
-**Panduwasnuwara** Polling Division, **Kurunegala** Electoral District
+**Mulkirigala** Polling Division, **Hambantota** Electoral District
 
-Population: 1,499 (2012)
+Population: 466 (2012)
 
-(**LK-6148050**/1362)
+(**LK-3321075**/419)
 
-![LK-6148050](data/images/LK-6148050.7612868-80206225.png)
+![LK-3321075](data/images/LK-3321075.6213188-80768324.png)
 
 </div>
 
@@ -204,19 +224,119 @@ Population: 1,499 (2012)
 
 <div id="image-info">
 
-## Weralupa
+## Udahamulla
 
 <div id="text-info">
 
-**Weralupa** Grama Niladhari Division, **Ratnapura** Divisional Secretariat Division, **Ratnapura** District, **Sabaragamuwa** Province
+**Udahamulla** Grama Niladhari Division, **Panadura** Divisional Secretariat Division, **Kalutara** District, **Western** Province
 
-**Ratnapura** Polling Division, **Ratnapura** Electoral District
+**Panadura** Polling Division, **Kalutara** Electoral District
 
-Population: 5,019 (2012)
+Population: 1,731 (2012)
 
-(**LK-9112185**/152B)
+(**LK-1303150**/682)
 
-![LK-9112185](data/images/LK-9112185.6691737-80393795.png)
+![LK-1303150](data/images/LK-1303150.6724175-79914200.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Galagedara
+
+<div id="text-info">
+
+**Galagedara** Grama Niladhari Division, **Kuliyapitiya West** Divisional Secretariat Division, **Kurunegala** District, **North Western** Province
+
+**Kuliyapitiya** Polling Division, **Kurunegala** Electoral District
+
+Population: 366 (2012)
+
+(**LK-6172255**/1196)
+
+![LK-6172255](data/images/LK-6172255.7436012-80040489.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Humbuluwa East
+
+<div id="text-info">
+
+**Humbuluwa East** Grama Niladhari Division, **Alawwa** Divisional Secretariat Division, **Kurunegala** District, **North Western** Province
+
+**Dambadeniya** Polling Division, **Kurunegala** Electoral District
+
+Population: 1,227 (2012)
+
+(**LK-6184210**/1006)
+
+![LK-6184210](data/images/LK-6184210.7312367-80210925.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Puthukudiyiruppu
+
+<div id="text-info">
+
+**Puthukudiyiruppu** Grama Niladhari Division, **Mannar Town** Divisional Secretariat Division, **Mannar** District, **Northern** Province
+
+**Mannar** Polling Division, **Vanni** Electoral District
+
+Population: 1,776 (2012)
+
+(**LK-4203070**/MN/61)
+
+![LK-4203070](data/images/LK-4203070.9051676-79854248.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Alawwa South
+
+<div id="text-info">
+
+**Alawwa South** Grama Niladhari Division, **Alawwa** Divisional Secretariat Division, **Kurunegala** District, **North Western** Province
+
+**Dambadeniya** Polling Division, **Kurunegala** Electoral District
+
+Population: 2,064 (2012)
+
+(**LK-6184195**/1001)
+
+![LK-6184195](data/images/LK-6184195.7299622-80239314.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Kanumale
+
+<div id="text-info">
+
+**Kanumale** Grama Niladhari Division, **Weerambugedara** Divisional Secretariat Division, **Kurunegala** District, **North Western** Province
+
+**Polgahawela** Polling Division, **Kurunegala** Electoral District
+
+Population: 2,177 (2012)
+
+(**LK-6166135**/855)
+
+![LK-6166135](data/images/LK-6166135.7464253-80321648.png)
 
 </div>
 
@@ -264,99 +384,19 @@ Population: 1,602 (2012)
 
 <div id="image-info">
 
-## Divulwewa
+## Kottawa South
 
 <div id="text-info">
 
-**Divulwewa** Grama Niladhari Division, **Anamaduwa** Divisional Secretariat Division, **Puttalam** District, **North Western** Province
+**Kottawa South** Grama Niladhari Division, **Maharagama** Divisional Secretariat Division, **Colombo** District, **Western** Province
 
-**Anamaduwa** Polling Division, **Puttalam** Electoral District
+**Maharagama** Polling Division, **Colombo** Electoral District
 
-Population: 1,070 (2012)
+Population: 7,159 (2012)
 
-(**LK-6224150**/658C)
+(**LK-1121130**/496)
 
-![LK-6224150](data/images/LK-6224150.7850847-79975027.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Udahamulla
-
-<div id="text-info">
-
-**Udahamulla** Grama Niladhari Division, **Panadura** Divisional Secretariat Division, **Kalutara** District, **Western** Province
-
-**Panadura** Polling Division, **Kalutara** Electoral District
-
-Population: 1,731 (2012)
-
-(**LK-1303150**/682)
-
-![LK-1303150](data/images/LK-1303150.6724175-79914200.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Humbuluwa East
-
-<div id="text-info">
-
-**Humbuluwa East** Grama Niladhari Division, **Alawwa** Divisional Secretariat Division, **Kurunegala** District, **North Western** Province
-
-**Dambadeniya** Polling Division, **Kurunegala** Electoral District
-
-Population: 1,227 (2012)
-
-(**LK-6184210**/1006)
-
-![LK-6184210](data/images/LK-6184210.7312367-80210925.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Pallikkudawa Urban
-
-<div id="text-info">
-
-**Pallikkudawa Urban** Grama Niladhari Division, **Tangalle** Divisional Secretariat Division, **Hambantota** District, **Southern** Province
-
-**Tangalle** Polling Division, **Hambantota** Electoral District
-
-Population: 1,315 (2012)
-
-(**LK-3333255**/273)
-
-![LK-3333255](data/images/LK-3333255.6022122-80795250.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Galagedara
-
-<div id="text-info">
-
-**Galagedara** Grama Niladhari Division, **Panduwasnuwara East** Divisional Secretariat Division, **Kurunegala** District, **North Western** Province
-
-**Panduwasnuwara** Polling Division, **Kurunegala** Electoral District
-
-Population: 730 (2012)
-
-(**LK-6148145**/1381)
-
-![LK-6148145](data/images/LK-6148145.7535503-80148627.png)
+![LK-1121130](data/images/LK-1121130.6848683-79966434.png)
 
 </div>
 
@@ -384,59 +424,19 @@ Population: 1,513 (2012)
 
 <div id="image-info">
 
-## Galagedara
+## Gallehepitiya
 
 <div id="text-info">
 
-**Galagedara** Grama Niladhari Division, **Kuliyapitiya West** Divisional Secretariat Division, **Kurunegala** District, **North Western** Province
+**Gallehepitiya** Grama Niladhari Division, **Panduwasnuwara East** Divisional Secretariat Division, **Kurunegala** District, **North Western** Province
 
-**Kuliyapitiya** Polling Division, **Kurunegala** Electoral District
+**Panduwasnuwara** Polling Division, **Kurunegala** Electoral District
 
-Population: 366 (2012)
+Population: 1,499 (2012)
 
-(**LK-6172255**/1196)
+(**LK-6148050**/1362)
 
-![LK-6172255](data/images/LK-6172255.7436012-80040489.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Kanumale
-
-<div id="text-info">
-
-**Kanumale** Grama Niladhari Division, **Weerambugedara** Divisional Secretariat Division, **Kurunegala** District, **North Western** Province
-
-**Polgahawela** Polling Division, **Kurunegala** Electoral District
-
-Population: 2,177 (2012)
-
-(**LK-6166135**/855)
-
-![LK-6166135](data/images/LK-6166135.7464253-80321648.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Nawagampura
-
-<div id="text-info">
-
-**Nawagampura** Grama Niladhari Division, **Ampara** Divisional Secretariat Division, **Ampara** District, **Eastern** Province
-
-**Ampara** Polling Division, **Digamadulla** Electoral District
-
-Population: 3,756 (2012)
-
-(**LK-5215030**/W/89I)
-
-![LK-5215030](data/images/LK-5215030.7301166-81692204.png)
+![LK-6148050](data/images/LK-6148050.7612868-80206225.png)
 
 </div>
 
@@ -464,79 +464,19 @@ Population: 1,092 (2012)
 
 <div id="image-info">
 
-## Dandagamuwa West
+## Manduvil
 
 <div id="text-info">
 
-**Dandagamuwa West** Grama Niladhari Division, **Kuliyapitiya West** Divisional Secretariat Division, **Kurunegala** District, **North Western** Province
+**Manduvil** Grama Niladhari Division, **Thenmaradchi (Chavakachcheri)** Divisional Secretariat Division, **Jaffna** District, **Northern** Province
 
-**Kuliyapitiya** Polling Division, **Kurunegala** Electoral District
+**Chavakachcheri** Polling Division, **Jaffna** Electoral District
 
-Population: 1,196 (2012)
+Population: 1,080 (2012)
 
-(**LK-6172215**/1193)
+(**LK-4130085**/J/304)
 
-![LK-6172215](data/images/LK-6172215.7453961-80026330.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Akkaraipattu 20
-
-<div id="text-info">
-
-**Akkaraipattu 20** Grama Niladhari Division, **Akkaraipattu** Divisional Secretariat Division, **Ampara** District, **Eastern** Province
-
-**Samanthurai** Polling Division, **Digamadulla** Electoral District
-
-Population: 1,337 (2012)
-
-(**LK-5236110**/AP/20/1)
-
-![LK-5236110](data/images/LK-5236110.7224500-81841962.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Dedigamuwa
-
-<div id="text-info">
-
-**Dedigamuwa** Grama Niladhari Division, **Kaduwela** Divisional Secretariat Division, **Colombo** District, **Western** Province
-
-**Kaduwela** Polling Division, **Colombo** Electoral District
-
-Population: 2,105 (2012)
-
-(**LK-1109100**/480A)
-
-![LK-1109100](data/images/LK-1109100.6898021-80027073.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Periyaththumunai
-
-<div id="text-info">
-
-**Periyaththumunai** Grama Niladhari Division, **Kinniya** Divisional Secretariat Division, **Trincomalee** District, **Eastern** Province
-
-**Muttur** Polling Division, **Trincomalee** Electoral District
-
-Population: 1,597 (2012)
-
-(**LK-5324095**/226)
-
-![LK-5324095](data/images/LK-5324095.8508447-81179232.png)
+![LK-4130085](data/images/LK-4130085.9677394-80174283.png)
 
 </div>
 
@@ -564,19 +504,19 @@ Population: 2,775 (2012)
 
 <div id="image-info">
 
-## Ihala Biyanvila Central
+## Kumarapuram
 
 <div id="text-info">
 
-**Ihala Biyanvila Central** Grama Niladhari Division, **Biyagama** Divisional Secretariat Division, **Gampaha** District, **Western** Province
+**Kumarapuram** Grama Niladhari Division, **Kandavalai** Divisional Secretariat Division, **Kilinochchi** District, **Northern** Province
 
-**Biyagama** Polling Division, **Gampaha** Electoral District
+**Kilinochchi** Polling Division, **Jaffna** Electoral District
 
-Population: 5,003 (2012)
+Population: 1,145 (2012)
 
-(**LK-1239015**/269B)
+(**LK-4506025**/KN/43)
 
-![LK-1239015](data/images/LK-1239015.6997011-79963123.png)
+![LK-4506025](data/images/LK-4506025.9440274-80374561.png)
 
 </div>
 
@@ -584,19 +524,19 @@ Population: 5,003 (2012)
 
 <div id="image-info">
 
-## Gammeddegoda
+## Galagedara
 
 <div id="text-info">
 
-**Gammeddegoda** Grama Niladhari Division, **Hikkaduwa** Divisional Secretariat Division, **Galle** District, **Southern** Province
+**Galagedara** Grama Niladhari Division, **Panduwasnuwara East** Divisional Secretariat Division, **Kurunegala** District, **North Western** Province
 
-**Ratgama** Polling Division, **Galle** Electoral District
+**Panduwasnuwara** Polling Division, **Kurunegala** Electoral District
 
-Population: 1,055 (2012)
+Population: 730 (2012)
 
-(**LK-3136430**/47)
+(**LK-6148145**/1381)
 
-![LK-3136430](data/images/LK-3136430.6090945-80144730.png)
+![LK-6148145](data/images/LK-6148145.7535503-80148627.png)
 
 </div>
 
@@ -604,19 +544,19 @@ Population: 1,055 (2012)
 
 <div id="image-info">
 
-## Ihala Walasmulla
+## Kallarichchel 01
 
 <div id="text-info">
 
-**Ihala Walasmulla** Grama Niladhari Division, **Walasmulla** Divisional Secretariat Division, **Hambantota** District, **Southern** Province
+**Kallarichchel 01** Grama Niladhari Division, **Samanthurai** Divisional Secretariat Division, **Ampara** District, **Eastern** Province
 
-**Mulkirigala** Polling Division, **Hambantota** Electoral District
+**Samanthurai** Polling Division, **Digamadulla** Electoral District
 
-Population: 743 (2012)
+Population: 785 (2012)
 
-(**LK-3325220**/457)
+(**LK-5218240**/79D)
 
-![LK-3325220](data/images/LK-3325220.6167852-80692560.png)
+![LK-5218240](data/images/LK-5218240.7356543-81812420.png)
 
 </div>
 
@@ -624,219 +564,19 @@ Population: 743 (2012)
 
 <div id="image-info">
 
-## Murunkan
+## Kadalana
 
 <div id="text-info">
 
-**Murunkan** Grama Niladhari Division, **Nanattan** Divisional Secretariat Division, **Mannar** District, **Northern** Province
+**Kadalana** Grama Niladhari Division, **Moratuwa** Divisional Secretariat Division, **Colombo** District, **Western** Province
 
-**Mannar** Polling Division, **Vanni** Electoral District
+**Moratuwa** Polling Division, **Colombo** Electoral District
 
-Population: 1,378 (2012)
+Population: 3,544 (2012)
 
-(**LK-4212065**/MN/118)
+(**LK-1133105**/558A)
 
-![LK-4212065](data/images/LK-4212065.8835536-80033668.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Bubulalanda
-
-<div id="text-info">
-
-**Bubulalanda** Grama Niladhari Division, **Beruwala** Divisional Secretariat Division, **Kalutara** District, **Western** Province
-
-**Beruwala** Polling Division, **Kalutara** Electoral District
-
-Population: 1,439 (2012)
-
-(**LK-1324170**/747B)
-
-![LK-1324170](data/images/LK-1324170.6491811-79996905.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## PahalaYalkumbura
-
-<div id="text-info">
-
-**PahalaYalkumbura** Grama Niladhari Division, **Welimada** Divisional Secretariat Division, **Badulla** District, **Uva** Province
-
-**Welimada** Polling Division, **Badulla** Electoral District
-
-Population: 941 (2012)
-
-(**LK-8130190**/59E)
-
-![LK-8130190](data/images/LK-8130190.6878682-80934644.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Neeravipiddy West
-
-<div id="text-info">
-
-**Neeravipiddy West** Grama Niladhari Division, **Maritimepattu** Divisional Secretariat Division, **Mullaitivu** District, **Northern** Province
-
-**Mullaitivu** Polling Division, **Vanni** Electoral District
-
-Population: 499 (2012)
-
-(**LK-4415190**/MU/114)
-
-![LK-4415190](data/images/LK-4415190.9227262-80793481.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Puthukudiyiruppu
-
-<div id="text-info">
-
-**Puthukudiyiruppu** Grama Niladhari Division, **Mannar Town** Divisional Secretariat Division, **Mannar** District, **Northern** Province
-
-**Mannar** Polling Division, **Vanni** Electoral District
-
-Population: 1,776 (2012)
-
-(**LK-4203070**/MN/61)
-
-![LK-4203070](data/images/LK-4203070.9051676-79854248.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Kottawa South
-
-<div id="text-info">
-
-**Kottawa South** Grama Niladhari Division, **Maharagama** Divisional Secretariat Division, **Colombo** District, **Western** Province
-
-**Maharagama** Polling Division, **Colombo** Electoral District
-
-Population: 7,159 (2012)
-
-(**LK-1121130**/496)
-
-![LK-1121130](data/images/LK-1121130.6848683-79966434.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Manduvil
-
-<div id="text-info">
-
-**Manduvil** Grama Niladhari Division, **Thenmaradchi (Chavakachcheri)** Divisional Secretariat Division, **Jaffna** District, **Northern** Province
-
-**Chavakachcheri** Polling Division, **Jaffna** Electoral District
-
-Population: 1,080 (2012)
-
-(**LK-4130085**/J/304)
-
-![LK-4130085](data/images/LK-4130085.9677394-80174283.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Galpottayaya South
-
-<div id="text-info">
-
-**Galpottayaya South** Grama Niladhari Division, **Weeraketiya** Divisional Secretariat Division, **Hambantota** District, **Southern** Province
-
-**Mulkirigala** Polling Division, **Hambantota** Electoral District
-
-Population: 466 (2012)
-
-(**LK-3321075**/419)
-
-![LK-3321075](data/images/LK-3321075.6213188-80768324.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Kalapaluwawa
-
-<div id="text-info">
-
-**Kalapaluwawa** Grama Niladhari Division, **Kaduwela** Divisional Secretariat Division, **Colombo** District, **Western** Province
-
-**Kaduwela** Polling Division, **Colombo** Electoral District
-
-Population: 4,287 (2012)
-
-(**LK-1109160**/491)
-
-![LK-1109160](data/images/LK-1109160.6914785-79914436.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Meedeniya
-
-<div id="text-info">
-
-**Meedeniya** Grama Niladhari Division, **Ukuwela** Divisional Secretariat Division, **Matale** District, **Central** Province
-
-**Rattota** Polling Division, **Matale** Electoral District
-
-Population: 2,118 (2012)
-
-(**LK-2233180**/E356B)
-
-![LK-2233180](data/images/LK-2233180.7432832-80625455.png)
-
-</div>
-
-</div>
-
-<div id="image-info">
-
-## Bulumulla
-
-<div id="text-info">
-
-**Bulumulla** Grama Niladhari Division, **Yatinuwara** Divisional Secretariat Division, **Kandy** District, **Central** Province
-
-**Yatinuwara** Polling Division, **Kandy** Electoral District
-
-Population: 1,288 (2012)
-
-(**LK-2136390**/125)
-
-![LK-2136390](data/images/LK-2136390.7270535-80572539.png)
+![LK-1133105](data/images/LK-1133105.6782588-79890230.png)
 
 </div>
 
@@ -864,19 +604,19 @@ Population: 1,043 (2012)
 
 <div id="image-info">
 
-## Kumarapuram
+## Meedeniya
 
 <div id="text-info">
 
-**Kumarapuram** Grama Niladhari Division, **Kandavalai** Divisional Secretariat Division, **Kilinochchi** District, **Northern** Province
+**Meedeniya** Grama Niladhari Division, **Ukuwela** Divisional Secretariat Division, **Matale** District, **Central** Province
 
-**Kilinochchi** Polling Division, **Jaffna** Electoral District
+**Rattota** Polling Division, **Matale** Electoral District
 
-Population: 1,145 (2012)
+Population: 2,118 (2012)
 
-(**LK-4506025**/KN/43)
+(**LK-2233180**/E356B)
 
-![LK-4506025](data/images/LK-4506025.9440274-80374561.png)
+![LK-2233180](data/images/LK-2233180.7432832-80625455.png)
 
 </div>
 
@@ -884,19 +624,299 @@ Population: 1,145 (2012)
 
 <div id="image-info">
 
-## Alawwa South
+## Kalapaluwawa
 
 <div id="text-info">
 
-**Alawwa South** Grama Niladhari Division, **Alawwa** Divisional Secretariat Division, **Kurunegala** District, **North Western** Province
+**Kalapaluwawa** Grama Niladhari Division, **Kaduwela** Divisional Secretariat Division, **Colombo** District, **Western** Province
 
-**Dambadeniya** Polling Division, **Kurunegala** Electoral District
+**Kaduwela** Polling Division, **Colombo** Electoral District
 
-Population: 2,064 (2012)
+Population: 4,287 (2012)
 
-(**LK-6184195**/1001)
+(**LK-1109160**/491)
 
-![LK-6184195](data/images/LK-6184195.7299622-80239314.png)
+![LK-1109160](data/images/LK-1109160.6914785-79914436.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Ganepola
+
+<div id="text-info">
+
+**Ganepola** Grama Niladhari Division, **Katana** Divisional Secretariat Division, **Gampaha** District, **Western** Province
+
+**Katana** Polling Division, **Gampaha** Electoral District
+
+Population: 1,961 (2012)
+
+(**LK-1206280**/203)
+
+![LK-1206280](data/images/LK-1206280.7141696-79911593.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Dandagamuwa West
+
+<div id="text-info">
+
+**Dandagamuwa West** Grama Niladhari Division, **Kuliyapitiya West** Divisional Secretariat Division, **Kurunegala** District, **North Western** Province
+
+**Kuliyapitiya** Polling Division, **Kurunegala** Electoral District
+
+Population: 1,196 (2012)
+
+(**LK-6172215**/1193)
+
+![LK-6172215](data/images/LK-6172215.7453961-80026330.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Pallikkudawa Urban
+
+<div id="text-info">
+
+**Pallikkudawa Urban** Grama Niladhari Division, **Tangalle** Divisional Secretariat Division, **Hambantota** District, **Southern** Province
+
+**Tangalle** Polling Division, **Hambantota** Electoral District
+
+Population: 1,315 (2012)
+
+(**LK-3333255**/273)
+
+![LK-3333255](data/images/LK-3333255.6022122-80795250.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Bubulalanda
+
+<div id="text-info">
+
+**Bubulalanda** Grama Niladhari Division, **Beruwala** Divisional Secretariat Division, **Kalutara** District, **Western** Province
+
+**Beruwala** Polling Division, **Kalutara** Electoral District
+
+Population: 1,439 (2012)
+
+(**LK-1324170**/747B)
+
+![LK-1324170](data/images/LK-1324170.6491811-79996905.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Ihala Biyanvila Central
+
+<div id="text-info">
+
+**Ihala Biyanvila Central** Grama Niladhari Division, **Biyagama** Divisional Secretariat Division, **Gampaha** District, **Western** Province
+
+**Biyagama** Polling Division, **Gampaha** Electoral District
+
+Population: 5,003 (2012)
+
+(**LK-1239015**/269B)
+
+![LK-1239015](data/images/LK-1239015.6997011-79963123.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Neeravipiddy West
+
+<div id="text-info">
+
+**Neeravipiddy West** Grama Niladhari Division, **Maritimepattu** Divisional Secretariat Division, **Mullaitivu** District, **Northern** Province
+
+**Mullaitivu** Polling Division, **Vanni** Electoral District
+
+Population: 499 (2012)
+
+(**LK-4415190**/MU/114)
+
+![LK-4415190](data/images/LK-4415190.9227262-80793481.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Akkaraipattu 20
+
+<div id="text-info">
+
+**Akkaraipattu 20** Grama Niladhari Division, **Akkaraipattu** Divisional Secretariat Division, **Ampara** District, **Eastern** Province
+
+**Samanthurai** Polling Division, **Digamadulla** Electoral District
+
+Population: 1,337 (2012)
+
+(**LK-5236110**/AP/20/1)
+
+![LK-5236110](data/images/LK-5236110.7224500-81841962.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Bulumulla
+
+<div id="text-info">
+
+**Bulumulla** Grama Niladhari Division, **Yatinuwara** Divisional Secretariat Division, **Kandy** District, **Central** Province
+
+**Yatinuwara** Polling Division, **Kandy** Electoral District
+
+Population: 1,288 (2012)
+
+(**LK-2136390**/125)
+
+![LK-2136390](data/images/LK-2136390.7270535-80572539.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Nawagampura
+
+<div id="text-info">
+
+**Nawagampura** Grama Niladhari Division, **Ampara** Divisional Secretariat Division, **Ampara** District, **Eastern** Province
+
+**Ampara** Polling Division, **Digamadulla** Electoral District
+
+Population: 3,756 (2012)
+
+(**LK-5215030**/W/89I)
+
+![LK-5215030](data/images/LK-5215030.7301166-81692204.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Divulwewa
+
+<div id="text-info">
+
+**Divulwewa** Grama Niladhari Division, **Anamaduwa** Divisional Secretariat Division, **Puttalam** District, **North Western** Province
+
+**Anamaduwa** Polling Division, **Puttalam** Electoral District
+
+Population: 1,070 (2012)
+
+(**LK-6224150**/658C)
+
+![LK-6224150](data/images/LK-6224150.7850847-79975027.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Pathiragoda
+
+<div id="text-info">
+
+**Pathiragoda** Grama Niladhari Division, **Maharagama** Divisional Secretariat Division, **Colombo** District, **Western** Province
+
+**Maharagama** Polling Division, **Colombo** Electoral District
+
+Population: 6,546 (2012)
+
+(**LK-1121100**/527A)
+
+![LK-1121100](data/images/LK-1121100.6858873-79920829.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## PahalaYalkumbura
+
+<div id="text-info">
+
+**PahalaYalkumbura** Grama Niladhari Division, **Welimada** Divisional Secretariat Division, **Badulla** District, **Uva** Province
+
+**Welimada** Polling Division, **Badulla** Electoral District
+
+Population: 941 (2012)
+
+(**LK-8130190**/59E)
+
+![LK-8130190](data/images/LK-8130190.6878682-80934644.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Central Camp 06
+
+<div id="text-info">
+
+**Central Camp 06** Grama Niladhari Division, **Navithanveli** Divisional Secretariat Division, **Ampara** District, **Eastern** Province
+
+**Samanthurai** Polling Division, **Digamadulla** Electoral District
+
+Population: 1,106 (2012)
+
+(**LK-5216025**/SP/93/F)
+
+![LK-5216025](data/images/LK-5216025.7437410-81721957.png)
+
+</div>
+
+</div>
+
+<div id="image-info">
+
+## Periyaththumunai
+
+<div id="text-info">
+
+**Periyaththumunai** Grama Niladhari Division, **Kinniya** Divisional Secretariat Division, **Trincomalee** District, **Eastern** Province
+
+**Muttur** Polling Division, **Trincomalee** Electoral District
+
+Population: 1,597 (2012)
+
+(**LK-5324095**/226)
+
+![LK-5324095](data/images/LK-5324095.8508447-81179232.png)
 
 </div>
 
