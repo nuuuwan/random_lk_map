@@ -54,12 +54,14 @@ class ReadMe:
             file_path_unix = image_info['file_path_unix']
             lines.extend(
                 [
+                    '<div id="image-info">',
                     f'## {gnd.name} GND',
                     '',
                     f'{dsd.name} DSD, {district.name} District, {province.name} Province',
                     '',
                     f'![{gnd_id}]({file_path_unix})',
                     '',
+                    '</div>',
                 ]
             )
         return lines
