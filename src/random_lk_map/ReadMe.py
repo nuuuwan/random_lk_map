@@ -72,7 +72,7 @@ class ReadMe:
                     '',
                     f'Population: {gnd.population:,} (2012)',
                     '',
-                    f'**{gnd.name}** GND, **{dsd.name}** Divisional Secretariat Division, **{district.name}** District, **{province.name}** Province',
+                    f'**{gnd.name}** Grama Niladhari Division, **{dsd.name}** Divisional Secretariat Division, **{district.name}** District, **{province.name}** Province',
                     '',
                     f'**{pd.name}** Polling Division, **{ed.name}** Electoral District',
                     '',
