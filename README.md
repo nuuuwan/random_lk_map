@@ -6,6 +6,8 @@
 
 ## Manduvil GND
 
+Population: 1,080 (2012)
+
 **Thenmaradchi (Chavakachcheri)** Divisional Secretariat Division, **Jaffna** District, **Northern** Province
 
 **Chavakachcheri** Polling Division, **Jaffna** Electoral District
@@ -18,21 +20,25 @@
 
 <div id="image-info">
 
-## Pathiragoda GND
+## Kottawa South GND
+
+Population: 7,159 (2012)
 
 **Maharagama** Divisional Secretariat Division, **Colombo** District, **Western** Province
 
 **Maharagama** Polling Division, **Colombo** Electoral District
 
-![LK-1121100](data/images/LK-1121100.6858873-79920829.png)
+![LK-1121130](data/images/LK-1121130.6848683-79966434.png)
 
-(**LK-1121100**/527A)
+(**LK-1121130**/496)
 
 </div>
 
 <div id="image-info">
 
 ## Puthukudiyiruppu GND
+
+Population: 1,776 (2012)
 
 **Mannar Town** Divisional Secretariat Division, **Mannar** District, **Northern** Province
 
@@ -48,6 +54,8 @@
 
 ## Bulumulla GND
 
+Population: 1,288 (2012)
+
 **Yatinuwara** Divisional Secretariat Division, **Kandy** District, **Central** Province
 
 **Yatinuwara** Polling Division, **Kandy** Electoral District
@@ -60,14 +68,16 @@
 
 <div id="image-info">
 
-## Kottawa South GND
+## Pathiragoda GND
+
+Population: 6,546 (2012)
 
 **Maharagama** Divisional Secretariat Division, **Colombo** District, **Western** Province
 
 **Maharagama** Polling Division, **Colombo** Electoral District
 
-![LK-1121130](data/images/LK-1121130.6848683-79966434.png)
+![LK-1121100](data/images/LK-1121100.6858873-79920829.png)
 
-(**LK-1121130**/496)
+(**LK-1121100**/527A)
 
 </div>
