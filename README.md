@@ -4,11 +4,11 @@
 
 <div id="image-info">
 
-## Bulumulla GND
+## Puthukudiyiruppu GND
 
-Yatinuwara DSD, Kandy District, Central Province
+Mannar Town DSD, Mannar District, Northern Province
 
-![LK-2136390](data/images/LK-2136390.7270535-80572539.png)
+![LK-4203070](data/images/LK-4203070.9051676-79854248.png)
 
 </div>
 
@@ -24,11 +24,21 @@ Thenmaradchi (Chavakachcheri) DSD, Jaffna District, Northern Province
 
 <div id="image-info">
 
-## Puthukudiyiruppu GND
+## Bulumulla GND
 
-Mannar Town DSD, Mannar District, Northern Province
+Yatinuwara DSD, Kandy District, Central Province
 
-![LK-4203070](data/images/LK-4203070.9051676-79854248.png)
+![LK-2136390](data/images/LK-2136390.7270535-80572539.png)
+
+</div>
+
+<div id="image-info">
+
+## Pathiragoda GND
+
+Maharagama DSD, Colombo District, Western Province
+
+![LK-1121100](data/images/LK-1121100.6858873-79920829.png)
 
 </div>
 
