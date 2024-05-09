@@ -4,22 +4,6 @@
 
 <div id="image-info">
 
-## Bulumulla GND
-
-Population: 1,288 (2012)
-
-**Yatinuwara** Divisional Secretariat Division, **Kandy** District, **Central** Province
-
-**Yatinuwara** Polling Division, **Kandy** Electoral District
-
-![LK-2136390](data/images/LK-2136390.7270535-80572539.png)
-
-(**LK-2136390**/125)
-
-</div>
-
-<div id="image-info">
-
 ## Pallikkudawa Urban GND
 
 Population: 1,315 (2012)
@@ -36,33 +20,17 @@ Population: 1,315 (2012)
 
 <div id="image-info">
 
-## Puthukudiyiruppu GND
+## Bulumulla GND
 
-Population: 1,776 (2012)
+Population: 1,288 (2012)
 
-**Mannar Town** Divisional Secretariat Division, **Mannar** District, **Northern** Province
+**Yatinuwara** Divisional Secretariat Division, **Kandy** District, **Central** Province
 
-**Mannar** Polling Division, **Vanni** Electoral District
+**Yatinuwara** Polling Division, **Kandy** Electoral District
 
-![LK-4203070](data/images/LK-4203070.9051676-79854248.png)
+![LK-2136390](data/images/LK-2136390.7270535-80572539.png)
 
-(**LK-4203070**/MN/61)
-
-</div>
-
-<div id="image-info">
-
-## Kottawa South GND
-
-Population: 7,159 (2012)
-
-**Maharagama** Divisional Secretariat Division, **Colombo** District, **Western** Province
-
-**Maharagama** Polling Division, **Colombo** Electoral District
-
-![LK-1121130](data/images/LK-1121130.6848683-79966434.png)
-
-(**LK-1121130**/496)
+(**LK-2136390**/125)
 
 </div>
 
@@ -95,5 +63,53 @@ Population: 6,546 (2012)
 ![LK-1121100](data/images/LK-1121100.6858873-79920829.png)
 
 (**LK-1121100**/527A)
+
+</div>
+
+<div id="image-info">
+
+## Puthukudiyiruppu GND
+
+Population: 1,776 (2012)
+
+**Mannar Town** Divisional Secretariat Division, **Mannar** District, **Northern** Province
+
+**Mannar** Polling Division, **Vanni** Electoral District
+
+![LK-4203070](data/images/LK-4203070.9051676-79854248.png)
+
+(**LK-4203070**/MN/61)
+
+</div>
+
+<div id="image-info">
+
+## Ukwatta GND
+
+Population: 2,649 (2012)
+
+**Seethawaka** Divisional Secretariat Division, **Colombo** District, **Western** Province
+
+**Avissawella** Polling Division, **Colombo** Electoral District
+
+![LK-1115055](data/images/LK-1115055.6957787-80201613.png)
+
+(**LK-1115055**/432C)
+
+</div>
+
+<div id="image-info">
+
+## Kottawa South GND
+
+Population: 7,159 (2012)
+
+**Maharagama** Divisional Secretariat Division, **Colombo** District, **Western** Province
+
+**Maharagama** Polling Division, **Colombo** Electoral District
+
+![LK-1121130](data/images/LK-1121130.6848683-79966434.png)
+
+(**LK-1121130**/496)
 
 </div>
